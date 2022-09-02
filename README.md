@@ -6,7 +6,7 @@ In this assignmen we use Java Script to create a webpage that contains an intera
 
 ## Results:
 
-Dana should know that once the webpage is open the table will display all of the data availalbe. The end user can enter the information they want to sort the data with and the table will return all the inkcidents that meet the set criteria. If the end user want to return to view all the data the filters should be empty and the page refreshed. 
+Dana should know that once the webpage is open the table will display all of the data availalbe. The end user can enter the information they want to sort the data with and the table will return all the incidents that meet the set criteria.The webpage filters the table correctly based on user input. If the end user want to return to view all the data the filters should be empty and the page refreshed. 
 The data can be sorter by: 
 - Date 
 - City
