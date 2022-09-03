@@ -20,8 +20,9 @@ The data can be sorter by:
 
 ## Summary:
 In summary we created a table to hold and display the UFO information. This was done via an HTML page that was created using Java / HTML / CSS / and Bootstrap. An Image was added to the background making the table looks professional. 
-Here is an example of what the page looks like
+Here is an example of what the page looks like, and a view of filtered data 
 ![image](https://user-images.githubusercontent.com/104601282/188228940-fd9ce186-93d5-4c84-a7e0-2e1625ee1094.png)
+![image](https://user-images.githubusercontent.com/104601282/188250843-c6ca1b58-d1d6-40dd-8b5d-2a4a34e5e7f3.png)
 
 
 - A draw back to this format is the lack of current data. The webpage could benefit from up to date data by continuously updating the information automatically. 
